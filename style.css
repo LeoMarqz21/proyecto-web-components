@@ -1,0 +1,20 @@
+
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+    min-height:100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #070c24;
+}
+
+product-card{
+    --primary-background: #2b4197;
+}
